@@ -1,4 +1,4 @@
-## Boas vindas ao repositório do projeto de ES6 e Testes Unitários!
+## Boas vindas ao projeto de ES6 e Testes Unitários!
 
 Este é um projeto que foi desenvolvido durante o curso de Desenvolvimento Web na Trybe.
 
